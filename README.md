@@ -1,4 +1,7 @@
-## Hi there 👋
+
+### Hi there 👋
+<h1 align="center">Hi 👋, I'm Anurag Nandre</h1>
+<h3 align="center">Software Engineer </h3>
 
 <!--
 **nandreanurag/nandreanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
