@@ -10,7 +10,7 @@ I love solving complex challenges, improving system performance, and integrating
 ---
 
 ## 🛠️ Key Projects
-### **K8s-VulnSage**  
+### **K8s-VulnSage**  **[Link](https://github.com/csye7125-su24-team14/architecture)**
 A **RAG-based AI-powered CVE Processing System** leveraging modern cloud-native technologies:  
 - Designed and deployed a **distributed RAG model** using **LLama3**, integrated with **Kafka streams** and **Pinecone Vector DB**, improving data insights accessibility by **70%** and decision-making speed by **50%** via a **Streamlit-based GPT interface**.  
 - Architected a **scalable, multi-cloud microservices ecosystem** using **Go, Python, and Kafka** for real-time CVE processing, integrated with **PostgreSQL** and orchestrated via **AWS EKS** with **multi-AZ deployment**, achieving **99.9% uptime** and 40% improved reliability.  
