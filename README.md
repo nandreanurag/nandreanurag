@@ -77,8 +77,8 @@ A **RAG-based AI-powered CVE Processing System** leveraging modern cloud-native 
 ---
 
 ## 🏆 Certifications
-- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/xyz)**  
-- **[Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka)**  
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/dc7191b3-c081-4328-8c9b-d33d5dd0885a/public_url)**  
+- **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/f9dbfb32-638e-4e76-920f-76bab53b0bd5)**  
 
 ---
 
