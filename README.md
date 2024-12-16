@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anuragnandre)
 
-# Hi there, I'm Anurag Nandre 👋
+# Hi, I'm Anurag Nandre 👋
 
 ## About Me  
 I'm a **Cloud-Native Software Engineer** with 3 years of experience building scalable applications using **Java, Spring Boot, Angular, AWS**, and **Kubernetes**. I hold a **Master's in Software Engineering** and specialize in designing microservices, event-driven architectures, and cloud automation.
@@ -9,29 +9,39 @@ I love solving complex challenges, improving system performance, and integrating
 
 ---
 
-## 🚀 Currently Working On
+## 🛠️ Key Projects
 ### **K8s-VulnSage**  
-- A **RAG-based AI-powered CVE Processing System** leveraging modern cloud-native technologies:  
-    - Built a scalable **microservices ecosystem** using **Go, Python, Kafka**, and **PostgreSQL**.  
-    - Integrated **Pinecone Vector DB** and a **Streamlit GPT interface** for real-time insights.  
-    - Enhanced system reliability using **Istio service mesh** and **Envoy** for secure traffic management.  
-    - Implemented observability with **Grafana**, Prometheus, and OpenTelemetry.  
-    - Automated infrastructure provisioning and CI/CD with **Terraform** and Jenkins.  
+A **RAG-based AI-powered CVE Processing System** leveraging modern cloud-native technologies:  
+- Designed and deployed a **distributed RAG model** using **LLama3**, integrated with **Kafka streams** and **Pinecone Vector DB**, improving data insights accessibility by **70%** and decision-making speed by **50%** via a **Streamlit-based GPT interface**.  
+- Architected a **scalable, multi-cloud microservices ecosystem** using **Go, Python, and Kafka** for real-time CVE processing, integrated with **PostgreSQL** and orchestrated via **AWS EKS** with **multi-AZ deployment**, achieving **99.9% uptime** and 40% improved reliability.  
+- Enhanced security with **Google OAuth** for user authentication and an **AWS Lambda-driven email service** for user verification.  
+- Implemented observability by integrating **Fluent Bit** for log aggregation, **OpenTelemetry** for traces, and **Grafana** for visualization, reducing **MTTR** by 50%.  
+- Deployed **Istio service mesh** with **Envoy sidecars** and integrated **Kiali dashboard** for traffic management, secure service-to-service communication, and monitoring. Achieved hitless upgrades, reduced system latency by **30%**, and ensured high reliability.  
+- Developed a **custom Kubernetes operator** using Kubebuilder to automate GitHub release tracking, leveraging **CRDs**, **RBAC**, and resource limits for a **25% faster release cycle**.  
+- Automated infrastructure provisioning and deployment using **Terraform**, **Packer**, and **Helm**, achieving **60% faster deployments**.  
+- Built **CI/CD pipelines** using **Jenkins** and **ArgoCD**, reducing deployment times by **50%** and improving consistency by **30%**.  
+- Automated **SSL/TLS certificate management** using **cert-manager** and implemented **secret management** with SOPS, achieving **zero downtime** in rotations and a **35% improvement in security posture**.  
 
 ---
 
-## 🛠️ Key Projects
-### **ECommerce Chatbot Migration**
-- Migrated distributed systems from **Java 8** to **Java 17** and **Spring Boot 1.5** to 2.7, improving performance and security.  
-- Reduced customer service calls by **4%** through optimized cancellation workflows.  
+## 💼 Work Experience  
 
-### **Intelligent Digital Workspace**  
-- Developed a **Kafka-based ETL pipeline** to process real-time device data from **50,000 devices**.  
-- Built an **Energy Management System** with **Spring Boot**, Angular, and DynamoDB to monitor global power consumption.  
+### **Graduate Assistant**  
+*Northeastern University, Boston, MA | Jan 2024 – Dec 2024*  
+- Facilitated coding sessions and automated workflows to improve assignment delivery using **GitHub Actions**.
 
-### **Automated Infrastructure as Code**  
-- Automated AWS infrastructure provisioning using **Terraform**, **Jenkins**, and **Packer**.  
-- Optimized CI/CD workflows and ensured deployment consistency across environments.  
+### **Software Engineer Coop**  
+*Staples, Framingham, MA | Jun 2023 – Dec 2023*  
+- Developed Full stack features to improve custumer service agents productivity and operational efficiency, Migrated distributed systems to latest versions, improved system performance, and created a test env for agent onboarding.
+
+### **Software Engineer**  
+*Infosys, Hyderabad, India | Sep 2021 – Aug 2022*  
+- Developed **cloud-native microservices** with **Spring Boot** and integrated **Kafka** pipelines for real-time data processing.  
+- Enhanced **observability** with modern tools, upgraded systems, and automated solutions for improved productivity.
+
+### **Software Engineer**  
+*Accenture, Hyderabad, India | Nov 2020 – Aug 2021*  
+- Automated **cloud infrastructure provisioning** and optimized **CI/CD pipelines** for scalable, secure **AWS** deployments.
 
 ---
 
@@ -67,8 +77,8 @@ I love solving complex challenges, improving system performance, and integrating
 ---
 
 ## 🏆 Certifications
-- **AWS Certified Solutions Architect – Associate**  
-- **Certified Kubernetes Administrator (CKA)**  
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/xyz)**  
+- **[Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka)**  
 
 ---
 
